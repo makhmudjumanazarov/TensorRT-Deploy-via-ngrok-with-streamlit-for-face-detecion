@@ -35,6 +35,7 @@ python -m ipykernel install --user --name=TensorRT
 <pre>
 streamlit run stream.py --server.port 8520
 </pre>
+
 <br/>
 <b>Step 6.</b> Open another page in the terminal (it should be the same as the path above). 
 <pre>

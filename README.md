@@ -42,7 +42,8 @@ streamlit run stream.py --server.port 8520
   - Sign up: https://ngrok.com/
   - Connect your account: 
                         1. ngrok config add-authtoken your token
-                        2. ngrok http 8520
+                        2. ngrok http 8520     
+                        
 </pre>
 <br/>
 

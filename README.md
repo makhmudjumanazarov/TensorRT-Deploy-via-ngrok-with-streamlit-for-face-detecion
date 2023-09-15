@@ -1,4 +1,4 @@
-### TensorRT-Deploy-via-ngrok-with-streamlit-for-face-detecion
+### Important
 Description:
   I built a model for Face Detection using YOLOv8. Then i exported YOLOv8 model to engine format.
   - Trained YOLOv8 model for Face Detection: <a href= "https://drive.google.com/file/d/17BhPnTdBkKJH7UF6qD5dSp6E0Ag7dqFg/view?usp=sharing"> face.pt </a>

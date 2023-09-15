@@ -9,7 +9,7 @@ Description:
   - Code to convert ONNX model TensorRT format: <a href= "https://github.com/makhmudjumanazarov/TensorRT-Deploy-via-ngrok-with-streamlit-for-face-detecion/blob/main/convert_onnx_to_engineresnet.py"> convert_onnx_to_engineresnet.py </a>
 
 ### Result
-Video: <a href= "https://www.youtube.com/shorts/ZCYN_04dW-w"> Result </a>
+ * **Video inference**: <a href= "https://www.youtube.com/shorts/ZCYN_04dW-w"> Result </a>
 
 ### Steps to Use
 <br />

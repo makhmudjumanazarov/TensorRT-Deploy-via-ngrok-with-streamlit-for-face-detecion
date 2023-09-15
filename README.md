@@ -1,5 +1,4 @@
 ### Important
-Description:
   I built a model for Face Detection using YOLOv8. First I exported the YOLOv8 model to ONNX format, then I exported the ONNX format model to TensorRT format. As a result, when we predicted the video through the TensorRT model, the FPS went up to 170.
   - Trained YOLOv8 model for Face Detection: <a href= "https://drive.google.com/file/d/17BhPnTdBkKJH7UF6qD5dSp6E0Ag7dqFg/view?usp=sharing"> face.pt </a>
   - ONNX model: <a href= "https://drive.google.com/file/d/1TR48GOOgYUzMM1fgF_B6ooao5zdE0xpC/view?usp=sharing"> face.onnx </a>
@@ -10,7 +9,7 @@ Description:
 
 ### Result
  * **Video inference**: <a href= "https://www.youtube.com/shorts/ZCYN_04dW-w"> Result Video </a>
-
+ 
 ### Steps to Use
 <br />
 <b>Step 1.</b> Clone <a href= "https://github.com/makhmudjumanazarov/TensorRT-Deploy-via-ngrok-with-streamlit-for-face-detecion.git">this repository </a>

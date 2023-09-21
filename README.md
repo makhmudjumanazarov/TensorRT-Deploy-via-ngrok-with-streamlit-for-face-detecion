@@ -10,6 +10,7 @@
 ### Result
  * **Video inference**: <a href= "https://www.youtube.com/shorts/ZCYN_04dW-w"> Result Video </a>
  * **Link**: https://tidy-caiman-enabling.ngrok-free.app
+ * **Video for upload**: https://github.com/makhmudjumanazarov/TensorRT-Deploy-via-ngrok-with-streamlit-for-face-detecion/blob/main/images/GIF.mp4
  
 ### Steps to Use
 <br />
